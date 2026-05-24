@@ -6,6 +6,10 @@ This repo contains the practical artifacts referenced during the talk — templa
 
 ## Start here
 
+If you want the **slides from the live talk**, they're at:
+[rashidlab.github.io/talks/2026-04-25-statsupai-staying-in-drivers-seat-deck/staying-in-drivers-seat-v3.html](https://rashidlab.github.io/talks/2026-04-25-statsupai-staying-in-drivers-seat-deck/staying-in-drivers-seat-v3.html)
+*(Press `S` in the browser for speaker notes view.)*
+
 If you saw the talk and want **one thing to do this week**, open [`checklists/quick-start.md`](checklists/quick-start.md). Five actions, adopt in order.
 
 If you want the **full guide**, download the handout: [`handout/staying-in-the-drivers-seat.pdf`](handout/staying-in-the-drivers-seat.pdf).
