@@ -10,7 +10,7 @@ Writes the work. Code, drafts, refactoring, format conversions.
 
 **Output:** The deliverable, or part of it.
 
-This is the default — what most people mean when they say *"I used AI."*
+This is the default - what most people mean when they say *"I used AI."*
 
 ## Tutor
 
@@ -30,9 +30,9 @@ Challenges the work. Argues against, names alternatives, stress-tests assumption
 
 ## The discipline
 
-**Default AI is executor.** Tutor and critic modes are *designed* — they don't happen unless you prompt them.
+**Default AI is executor.** Tutor and critic modes are *designed* - they don't happen unless you prompt them.
 
-**Critic-mode output is itself delegated judgment** — it needs the same review as code. If the AI argues against your choice unconvincingly, that's not evidence your model is right; it's evidence the AI didn't argue well.
+**Critic-mode output is itself delegated judgment** - it needs the same review as code. If the AI argues against your choice unconvincingly, that's not evidence your model is right; it's evidence the AI didn't argue well.
 
 ## One statistical situation, three modes
 

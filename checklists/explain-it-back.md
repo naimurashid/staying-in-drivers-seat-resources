@@ -18,7 +18,7 @@ You can:
 
 ## Mechanism
 
-This is essentially the **self-explanation effect** (Chi et al., 1989, 1994) combined with **retrieval practice** (Roediger & Karpicke, 2006) — well-evidenced mechanisms by which articulating cements understanding.
+This is essentially the **self-explanation effect** (Chi et al., 1989, 1994) combined with **retrieval practice** (Roediger & Karpicke, 2006) - well-evidenced mechanisms by which articulating cements understanding.
 
 The thinking required to explain is the point.
 

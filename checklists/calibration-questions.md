@@ -1,6 +1,6 @@
-# Calibration questions — honest self-check
+# Calibration questions - honest self-check
 
-A diagnostic, not a judgment. If anything gets a "no" — that's where to start.
+A diagnostic, not a judgment. If anything gets a "no" - that's where to start.
 
 ## For yourself
 
@@ -16,8 +16,8 @@ A diagnostic, not a judgment. If anything gets a "no" — that's where to start.
 ## For yourself, as advisor
 
 - [ ] Have you asked your trainee how they actually use AI before judging the workflow?
-- [ ] Are you keeping pace with their fluency — or judging from a 2023 mental model?
+- [ ] Are you keeping pace with their fluency - or judging from a 2023 mental model?
 
 ---
 
-If anything got a "no" — see [`quick-start.md`](quick-start.md).
+If anything got a "no" - see [`quick-start.md`](quick-start.md).

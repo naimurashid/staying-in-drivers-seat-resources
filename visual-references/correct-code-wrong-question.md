@@ -1,6 +1,6 @@
 # Correct code, wrong question
 
-The dangerous output in statistics isn't a missing package — it's a model that does what AI suggested but answers a different question.
+The dangerous output in statistics isn't a missing package - it's a model that does what AI suggested but answers a different question.
 
 ## The pattern
 
@@ -17,7 +17,7 @@ The dangerous output in statistics isn't a missing package — it's a model that
 
 **The right column is the failure mode.** Each one is "code that runs, output that prints, conclusion that doesn't match the science."
 
-**The middle column is where the chain of judgment lives.** It's the column AI doesn't help with — not because it can't, but because the choices in that column are what the work is *for*.
+**The middle column is where the chain of judgment lives.** It's the column AI doesn't help with - not because it can't, but because the choices in that column are what the work is *for*.
 
 ## How to act on this
 

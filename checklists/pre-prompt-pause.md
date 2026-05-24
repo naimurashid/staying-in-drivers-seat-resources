@@ -12,7 +12,7 @@ Before prompting an AI tool, spend 2–5 minutes writing your own approach in a 
 
 ## 3. What are the tricky parts?
 
-*(Edge cases, assumptions, unknowns — and: what assumption would change the conclusion? what might the AI not suggest?)*
+*(Edge cases, assumptions, unknowns - and: what assumption would change the conclusion? what might the AI not suggest?)*
 
 ## 4. How will I know it worked?
 

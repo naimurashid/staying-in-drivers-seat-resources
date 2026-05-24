@@ -12,14 +12,14 @@ Three categories of work, by how much AI should do.
 
 ## Reading the table
 
-**The columns are stable.** The categories — what's safe, what needs review, what stays hands-on — don't move.
+**The columns are stable.** The categories - what's safe, what needs review, what stays hands-on - don't move.
 
 **The items shift.** Which items go in which column changes by activity, by stakes, by your career stage. A new researcher's "stay hands-on" column has more items than a senior researcher's. A regulated-trial statistician's "delegate with review" column has more items than a pure-academic statistician's.
 
 ## Three prompts to pull AI out of executor mode
 
 - *"Ask me three questions before suggesting a method."*
-- *"Don't give code yet — ask me to specify the estimand."*
+- *"Don't give code yet - ask me to specify the estimand."*
 - *"Argue against this model choice and list two alternatives."*
 
 See [`tutor-critic-prompts.md`](../prompts/tutor-critic-prompts.md) for more starter prompts.

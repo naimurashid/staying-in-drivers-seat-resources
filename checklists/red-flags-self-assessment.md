@@ -1,4 +1,4 @@
-# Red flags — self-assessment
+# Red flags - self-assessment
 
 Periodically check yourself against these warning signs. If several apply, it's time to adjust your workflow.
 
@@ -15,4 +15,4 @@ Periodically check yourself against these warning signs. If several apply, it's 
 
 - **0–1 checked:** You're in great shape.
 - **2–4 checked:** Some habits need adjustment. Start with the [Pre-Prompt Pause](pre-prompt-pause.md) and [Explain-it-back](explain-it-back.md).
-- **5+ checked:** Time for a deliberate reset. Start with [unplugged sessions](../templates/) — 90 minutes per week without AI assistance on a real problem — and the [DECISIONS.md](../templates/DECISIONS.md) log.
+- **5+ checked:** Time for a deliberate reset. Start with [unplugged sessions](../templates/) - 90 minutes per week without AI assistance on a real problem - and the [DECISIONS.md](../templates/DECISIONS.md) log.

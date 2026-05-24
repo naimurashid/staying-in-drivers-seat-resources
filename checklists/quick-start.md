@@ -1,6 +1,6 @@
-# Quick-start — 5 actions, adopt in order
+# Quick-start - 5 actions, adopt in order
 
-If you saw the talk and something on the [calibration list](calibration-questions.md) got a "no" — start here.
+If you saw the talk and something on the [calibration list](calibration-questions.md) got a "no" - start here.
 
 ## In order
 

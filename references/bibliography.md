@@ -19,7 +19,7 @@ DOI: [10.1073/pnas.2422633122](https://doi.org/10.1073/pnas.2422633122)
 **Bainbridge, L. (1983).** *Ironies of Automation.* Automatica, 19(6), 775–779.
 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0005109883900468)
 
-> Foundational paper on the paradoxes of automation. Identifies that as automation increases, the human operator's job becomes monitoring and judgment — skills that atrophy without practice. Anticipated the AI-era concerns by 40 years.
+> Foundational paper on the paradoxes of automation. Identifies that as automation increases, the human operator's job becomes monitoring and judgment - skills that atrophy without practice. Anticipated the AI-era concerns by 40 years.
 
 **Sparrow, B., Liu, J., & Wegner, D. M. (2011).** *Google effects on memory: Cognitive consequences of having information at our fingertips.* Science, 333(6043), 776–778.
 DOI: [10.1126/science.1207745](https://doi.org/10.1126/science.1207745)
@@ -51,11 +51,11 @@ DOI: [10.1145/3706598.3713778](https://doi.org/10.1145/3706598.3713778)
 
 Referenced in talk speaker notes, used as supporting evidence rather than central claims:
 
-**Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989).** *Self-explanations: How students study and use examples in learning to solve problems.* Cognitive Science, 13(2), 145–182. — Self-explanation effect.
+**Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989).** *Self-explanations: How students study and use examples in learning to solve problems.* Cognitive Science, 13(2), 145–182. - Self-explanation effect.
 
-**Roediger, H. L., & Karpicke, J. D. (2006).** *Test-enhanced learning: Taking memory tests improves long-term retention.* Psychological Science, 17(3), 249–255. — Retrieval practice.
+**Roediger, H. L., & Karpicke, J. D. (2006).** *Test-enhanced learning: Taking memory tests improves long-term retention.* Psychological Science, 17(3), 249–255. - Retrieval practice.
 
-**Kapur, M. (2008).** *Productive failure.* Cognition and Instruction, 26(3), 379–424. — Productive failure / desirable difficulty.
+**Kapur, M. (2008).** *Productive failure.* Cognition and Instruction, 26(3), 379–424. - Productive failure / desirable difficulty.
 
 ## The talk's source guide
 

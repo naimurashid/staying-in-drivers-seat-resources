@@ -4,7 +4,7 @@ A lightweight log of design and methodological decisions made in this project.
 
 ## Why this file exists
 
-The point isn't the artifact — it's the act of writing. Articulating each decision forces you to understand it. The log helps teammates, reviewers, and future-you reconstruct the reasoning.
+The point isn't the artifact - it's the act of writing. Articulating each decision forces you to understand it. The log helps teammates, reviewers, and future-you reconstruct the reasoning.
 
 This generalizes beyond code: research projects, course curricula, manuscripts. Anywhere decisions get made and forgotten.
 
@@ -30,7 +30,7 @@ Each entry captures:
 
 ---
 
-## Empty entry — copy and fill in
+## Empty entry - copy and fill in
 
 ### YYYY-MM-DD: [Decision in one line]
 
