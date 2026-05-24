@@ -59,5 +59,5 @@ Referenced in talk speaker notes, used as supporting evidence rather than centra
 
 ## The talk's source guide
 
-**Rashid Lab.** *Staying in the Driver's Seat: Maintaining code ownership in the age of AI coding assistants.* (March 2026).
-[Lab Handbook](https://rashidlab.github.io/lab-handbook/claude-code/code-ownership.html) · [PDF](../handout/staying-in-the-drivers-seat.pdf)
+**Rashid, N.** *Staying in the Driver's Seat: Maintaining code ownership in the age of AI coding assistants.* (March 2026, updated May 2026).
+[PDF in this repo](../handout/staying-in-the-drivers-seat.pdf)

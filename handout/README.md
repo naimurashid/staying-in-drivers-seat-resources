@@ -18,8 +18,6 @@ quarto render source.qmd
 mv source.pdf staying-in-the-drivers-seat.pdf
 ```
 
-### Relation to the lab-handbook source
+### To update the content
 
-The substantive content of `source.qmd` mirrors the lab handbook's `code-ownership.qmd`. The branded PDF has additional YAML configuration for PDF output (title page, fonts, custom LaTeX styling) that the web version doesn't need.
-
-If you update content in the lab handbook, you'll need to re-sync `source.qmd` here (typically by replacing everything after the YAML block) and re-render.
+`source.qmd` is the canonical source for the published handout PDF in this repo. To change content, edit `source.qmd` and re-run the rebuild steps above.

@@ -8,7 +8,6 @@ This repo contains the practical artifacts referenced during the talk — templa
 
 If you want the **slides from the live talk**, they're at:
 [rashidlab.github.io/talks/2026-04-25-statsupai-staying-in-drivers-seat-deck/staying-in-drivers-seat-v3.html](https://rashidlab.github.io/talks/2026-04-25-statsupai-staying-in-drivers-seat-deck/staying-in-drivers-seat-v3.html)
-*(Press `S` in the browser for speaker notes view.)*
 
 If you saw the talk and want **one thing to do this week**, open [`checklists/quick-start.md`](checklists/quick-start.md). Five actions, adopt in order.
 
@@ -67,9 +66,7 @@ If you took a photo of a specific slide and want the digital version:
 
 The webinar argues that as AI use scales in statistical research, the practices that maintain *genuine ownership* of our work — the chain of judgment, the productive struggle, the first encounter with a concept — need deliberate preservation.
 
-The talk synthesizes principles, daily habits, and project-level practices from the lab guide, extends them to doctoral training and classroom teaching, and grounds them in cognitive-science research dating back to Bainbridge's *Ironies of Automation* (1983).
-
-The lab's full Claude Code documentation lives at https://rashidlab.github.io/lab-handbook/claude-code/.
+The talk synthesizes principles, daily habits, and project-level practices into a coherent guide, extends them to doctoral training and classroom teaching, and grounds them in cognitive-science research dating back to Bainbridge's *Ironies of Automation* (1983).
 
 ## Attribution & contributions
 
