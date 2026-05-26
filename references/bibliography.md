@@ -16,10 +16,29 @@ DOI: [10.1073/pnas.2422633122](https://doi.org/10.1073/pnas.2422633122)
 
 ## Cognitive science / pedagogy foundation
 
+**Shea, J. B., & Morgan, R. L. (1979).** *Contextual interference effects on the acquisition, retention, and transfer of a motor skill.* Journal of Experimental Psychology: Human Learning and Memory, 5(2), 179–187.
+
+> Foundational demonstration of the variability-of-practice effect: random/varied practice produces worse acquisition than blocked practice, but better long-term retention and transfer. The source for "varying conditions of practice" as a desirable difficulty.
+
 **Bainbridge, L. (1983).** *Ironies of Automation.* Automatica, 19(6), 775–779.
 [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0005109883900468)
 
 > Foundational paper on the paradoxes of automation. Identifies that as automation increases, the human operator's job becomes monitoring and judgment - skills that atrophy without practice. Anticipated the AI-era concerns by 40 years.
+
+**Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006).** *Distributed practice in verbal recall tasks: A review and quantitative synthesis.* Psychological Bulletin, 132(3), 354–380.
+DOI: [10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
+
+> Meta-analysis of ~300 spacing-effect experiments. Distributed practice produces better retention than massed practice across essentially all domains and populations studied; effect size grows with retention interval.
+
+**Roediger, H. L., & Karpicke, J. D. (2006).** *Test-enhanced learning: Taking memory tests improves long-term retention.* Psychological Science, 17(3), 249–255.
+DOI: [10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)
+
+> Foundational demonstration of the testing effect. Practice-tested students retained substantially more at a delayed test than restudy controls despite equal study time. The source for "using tests as study events" as a desirable difficulty.
+
+**Rohrer, D., & Taylor, K. (2007).** *The shuffling of mathematics problems improves learning.* Instructional Science, 35(6), 481–498.
+DOI: [10.1007/s11251-007-9015-8](https://doi.org/10.1007/s11251-007-9015-8)
+
+> Interleaved math practice produced higher delayed-test accuracy than blocked, despite blocked appearing more effective during practice. The source for "interleaving" as a desirable difficulty applied to academic content.
 
 **Sparrow, B., Liu, J., & Wegner, D. M. (2011).** *Google effects on memory: Cognitive consequences of having information at our fingertips.* Science, 333(6043), 776–778.
 DOI: [10.1126/science.1207745](https://doi.org/10.1126/science.1207745)
@@ -29,7 +48,7 @@ DOI: [10.1126/science.1207745](https://doi.org/10.1126/science.1207745)
 **Bjork, E. L., & Bjork, R. A. (2011).** *Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning.* In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World* (pp. 56–64).
 [UCLA Bjork Learning & Forgetting Lab](https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/04/EBjork_RBjork_2011.pdf)
 
-> Four "desirable difficulties" that distinguish learning that lasts from performance that fades: varying conditions of practice, spacing, interleaving, and using tests as study events.
+> Synthesis paper. Four "desirable difficulties" that distinguish learning that lasts from performance that fades: varying conditions of practice, spacing, interleaving, and using tests as study events. Draws together the primary findings cited above.
 
 **Risko, E. F., & Gilbert, S. J. (2016).** *Cognitive offloading.* Trends in Cognitive Sciences, 20(9), 676–688.
 
@@ -52,8 +71,6 @@ DOI: [10.1145/3706598.3713778](https://doi.org/10.1145/3706598.3713778)
 Referenced in talk speaker notes, used as supporting evidence rather than central claims:
 
 **Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989).** *Self-explanations: How students study and use examples in learning to solve problems.* Cognitive Science, 13(2), 145–182. - Self-explanation effect.
-
-**Roediger, H. L., & Karpicke, J. D. (2006).** *Test-enhanced learning: Taking memory tests improves long-term retention.* Psychological Science, 17(3), 249–255. - Retrieval practice.
 
 **Kapur, M. (2008).** *Productive failure.* Cognition and Instruction, 26(3), 379–424. - Productive failure / desirable difficulty.
 
