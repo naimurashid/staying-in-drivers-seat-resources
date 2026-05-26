@@ -36,13 +36,13 @@ Challenges the work. Argues against, names alternatives, stress-tests assumption
 
 ## One statistical situation, three modes
 
-Choosing between OLS, GLS, and a robust regression for data with some heteroskedasticity:
+Handling heteroskedasticity in a regression:
 
 | Mode | Prompt | Output |
 |---|---|---|
-| **Executor** | *"Use GLS with HC3, write the code."* | Working code. Never asked whether GLS was right. |
-| **Tutor** | *"Walk through the assumptions; quiz me before code."* | Assumptions encoded, not just applied. |
-| **Critic** | *"Argue for OLS despite the heteroskedasticity. What residual pattern would I need to see?"* | Stress-test of your default. |
+| **Executor** | *"Fit OLS with robust standard errors and show GLS as a sensitivity analysis."* | Working code. Never asked whether the trade-off was the right one for the data. |
+| **Tutor** | *"Quiz me on the assumptions behind OLS with robust SEs vs GLS before writing code."* | Assumptions encoded, not just applied. |
+| **Critic** | *"Argue against GLS here. What residual pattern would make OLS with robust SEs preferable?"* | Stress-test of your default. |
 
 Same AI, same data, three different conversations.
 

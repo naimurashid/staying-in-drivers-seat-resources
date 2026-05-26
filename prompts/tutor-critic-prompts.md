@@ -30,13 +30,13 @@ The output is **calibration**, not the deliverable.
 
 ## Worked example - three modes, one statistical situation
 
-Same question: *choosing between OLS, GLS, and robust regression for data with some heteroskedasticity.*
+Same question: *handling heteroskedasticity in a regression.*
 
 | Mode | Prompt | What you get |
 |---|---|---|
-| **Executor** | *"Use GLS with HC3 standard errors, write the code."* | Code that runs. *(You never asked whether GLS was the right call.)* |
-| **Tutor** | *"Walk me through the assumptions of each - when does each model fail? Quiz me before showing code."* | A primer + retrieval practice. Assumptions encoded, not just applied. |
-| **Critic** | *"Argue for OLS despite the heteroskedasticity. What residual pattern would I need to see?"* | Three scenarios where OLS would still be defensible. Stress-test of your default. |
+| **Executor** | *"Fit OLS with robust standard errors and show GLS as a sensitivity analysis."* | Code that runs. *(You never asked whether the trade-off was the right one for the data.)* |
+| **Tutor** | *"Quiz me on the assumptions behind OLS with robust SEs vs GLS before writing code. When does each fail?"* | A primer + retrieval practice. Assumptions encoded, not just applied. |
+| **Critic** | *"Argue against GLS here. What residual pattern or design feature would make OLS with robust SEs preferable?"* | Scenarios where the robust-SE default would still be defensible. Stress-test of your default. |
 
 Same AI, same data, three different conversations. **The mode is a lever you control.**
 

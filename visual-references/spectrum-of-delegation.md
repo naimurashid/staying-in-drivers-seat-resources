@@ -7,8 +7,9 @@ Three categories of work, by how much AI should do.
 | Boilerplate & scaffolding | Analysis code | Architecture & design |
 | Syntax & idioms | Database queries | Methodological choices |
 | Format conversions | Methods-section drafts | Core algorithms |
-| Search-query brainstorming | Literature summaries | Interpretation & defense |
-| Prose smoothing | Worked examples & rubrics | Diagnosing the room |
+| Search-query brainstorming | Prose smoothing | Interpretation & defense |
+|  | Literature summaries | Diagnosing the room |
+|  | Worked examples & rubrics |  |
 
 ## Reading the table
 
