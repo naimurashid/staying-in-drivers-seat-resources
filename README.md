@@ -42,7 +42,7 @@ The published lab guide *Staying in the Driver's Seat*. Deep dive into foundatio
 - **[`correct-code-wrong-question.md`](visual-references/correct-code-wrong-question.md)** - statistical failure-mode table
 
 ### [`references/`](references/)
-- **[`bibliography.md`](references/bibliography.md)** - all 8 cited works from the talk, with DOIs
+- **[`bibliography.md`](references/bibliography.md)** - all cited works from the talk, with DOIs
 
 ## Slide-to-file map
 

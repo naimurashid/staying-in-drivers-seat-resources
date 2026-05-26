@@ -30,7 +30,7 @@ Challenges the work. Argues against, names alternatives, stress-tests assumption
 
 ## The discipline
 
-**Default AI is executor.** Tutor and critic modes are *designed* - they don't happen unless you prompt them.
+**Default AI is executor.** Tutor and critic require *deliberate prompting* - they don't happen unless you ask for them.
 
 **Critic-mode output is itself delegated judgment** - it needs the same review as code. If the AI argues against your choice unconvincingly, that's not evidence your model is right; it's evidence the AI didn't argue well.
 
